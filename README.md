@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Patel Muhammad</h1>
-<h3 align="center">👨‍💻 Full Stack Developer <br> 🌟 Passionate about Open Source <br> 💻 Learningnew tech skills to create innovative projects 🚀!</h3>
+<h3 align="center">👨‍💻 Full Stack Developer <br> 🌟 Passionate about Open Source <br> 💻 Learning new tech skills to create innovative projects 🚀</h3>
+
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patel-muhammad&label=Profile%20views&color=0e75b6&style=flat" alt="patel-muhammad" /> </p>
 
