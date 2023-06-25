@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" alt="MarineGEO circle logo" style="height: 35px; width:35px;"/> I'm Patel Muhammad</h1>
-<h3 align="center">👨‍💻 Full Stack Developer <br> 🌟 Passionate about Open Source <br><img src="https://em-content.zobj.net/source/noto-emoji-animations/344/rocket_1f680.gif" height="30px"> Learning new tech skills to create innovative projects </h3>
+<h3 align="center">👨‍💻 Full Stack Developer <br> ❤️ Open Source <br><img src="https://em-content.zobj.net/source/noto-emoji-animations/344/rocket_1f680.gif" height="30px"> Learning new tech skills to create innovative projects </h3>
 
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
