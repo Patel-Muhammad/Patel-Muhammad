@@ -10,9 +10,7 @@
 <p align="left"> <a href="https://twitter.com/patelmuhammad03" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="patelmuhammad03" /></a> </p>
 <p align="left"> <a href="https://www.linkedin.com/in/patel-muhammad-507390169/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="patelmuhammad03" /></a> </p>
 
-- 🌱 I’m currently learning **Angular, React and Node...**
-
-- 📝 I regularly write articles on [https://patelmuhammad.hashnode.dev/](https://patelmuhammad.hashnode.dev/)
+- 🌱 I’m currently learning  Nextjs/React, Node, Azure and deployment...**
 
 - 📫 How to reach me **patelmuh2003@gmail.com**
 
