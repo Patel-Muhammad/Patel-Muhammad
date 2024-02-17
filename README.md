@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" alt="MarineGEO circle logo" style="height: 35px; width:35px;"/> I'm Patel Muhammad</h1>
+<h1 align="center"> I'm Patel Muhammad</h1>
 <h3 align="center">❤️ Open Source <br> 👨‍💻 Full Stack Developer <br>   🚀 Learning skills to create impactful projects! </h3>
 
 
