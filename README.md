@@ -8,7 +8,7 @@
 
 
 
-<p align="left"> <a href="https://www.linkedin.com/in/patel-muhammad/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="patelmuhammad03" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/patel-muhammad/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="patelmuhammad03" /></a> </p>
 
  📫 How to reach me: **patelmuh2003@gmail.com**
 
